@@ -1,0 +1,15 @@
+Watson6526
+Licensing information
+05-11-01
+
+1) The source code to Watson6526 is available free-of-charge for NON-COMMERCIAL use.  Use in COMMERCIAL applications requires the payment of a royalty equal to one US dollar per unit sold which has been developed based on or including this code, or an alternate amount agreed to by the author.  Royalties will be used to fund new and exciting C-64 hardware projects and will not be used to fund Watson's caffeine addiction.
+
+2) This design has been created according to the function specifications of the MOS 6526 as described in the 6526 datasheet published by MOS technologies and/or Commodore Business Machines.  Operation may not correctly model undocumented behavior of the original MOS6526 or MOS6526A chips.
+
+3) Improvements to the code are welcome, but all official releases will come from Dave Ross (a.k.a. Watson) <watson@c64.org>.  Please feel free to e-mail your corrections/improvements, as any contributors will be credited.  Royalties will not be split with contributors, but contributors are more than welcome to present their projects for consideration for funding if/when funds become available.
+
+4) No guarantees (express or implied) are made regarding this code or any designs based upon or incorporating it.  As of this writing, it has never been tested in actual hardware, and it hasn't even been fully tested in a simulator.  Use it at your own risk.  For external use only.  If accidentally swallowed, consult a physician.
+
+5) This document must accompany all source-code archives.  Archives will be identified with a file name in the format of Watson6526{MM-DD-YY}.zip, with {MM-DD-YY} being the date of the archive's release.
+
+6) Really, you're on your honor here.  I've been working on this design for seven months now, through nine major revisions.  I started out knowing little about VHDL or even digital electronics design (and some of the earlier revisions really show it).  I had hoped to be able to mass-produce replacement 6526 chips to replace the dwindling supply, but the per-unit costs would have been more than I know most c64 users would be willing to pay (at least US$50 per "chip").  I technically have no way of knowing who uses this design and who doesn't.  I just hope that those who do use it have enough of a conscience to abide by these terms.  After all, I have nothing to gain personally from these royalties except for the availability of really cool Commodore hardware.
